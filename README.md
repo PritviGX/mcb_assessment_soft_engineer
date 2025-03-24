@@ -26,5 +26,5 @@ The database was normalized into the following tables:
 | `6.GET_SUPPLIER_ORDER_SUMMARY` | Lists suppliers with their total orders |
 
 ## **View SQL files and OUTPUT PDF**
-- Download and extract MCB SQL Assessment
+- Download and extract ZIP file MCB SQL Assessment_ Pritvi Gopee
 - Go to Answers where you will find the scripts and PDF doc with tools used and outputs
